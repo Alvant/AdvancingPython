@@ -138,7 +138,7 @@ git
 
 ## Ссылки
 
-* [Cmder](https://cmder.net/) — Unix-like консоль на Windows
+* [Cmder](https://cmder.app/) — Unix-like консоль на Windows
 * [Learn Git Branching](https://learngitbranching.js.org/?locale=ru_RU) — классная интерактивная Гит-обучалка (`git add`, `git commit`, `git cherry-pick`, `git rebase` & many more)
 
 
