@@ -138,7 +138,6 @@ git
 
 ## Ссылки
 
-* [Powerful Python One-Liners](https://wiki.python.org/moin/Powerful%20Python%20One-Liners) — пара крутых питонских однострочников ("обратить словарь в одну строчку")
 * [Cmder](https://cmder.net/) — Unix-like консоль на Windows
 * [Learn Git Branching](https://learngitbranching.js.org/?locale=ru_RU) — классная интерактивная Гит-обучалка (`git add`, `git commit`, `git cherry-pick`, `git rebase` & many more)
 
