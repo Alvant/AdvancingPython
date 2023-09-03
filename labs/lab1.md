@@ -1,4 +1,4 @@
-# Lab1: Advanced Python
+# Lab 1: Advanced Python
 
 Лаба: http://cs.mipt.ru/python/lessons/lab1.html.
 
