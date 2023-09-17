@@ -6,9 +6,8 @@
 </p>
 <p align="center">
   <em>
-    <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhxM3U5eDM0OWdlN2R2YzZrdGw0MnBoOWdjZzQzejNnbTAya2FudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bRwbmwcWANmGGbTofK/giphy.gif">
-      Вальс черепашек
-	</a>.
+    Вальс черепашек
+	(<a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhxM3U5eDM0OWdlN2R2YzZrdGw0MnBoOWdjZzQzejNnbTAya2FudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bRwbmwcWANmGGbTofK/giphy.gif">gif</a>).
   </em>
 </p>
 
@@ -20,9 +19,8 @@
 </p>
 <p align="center">
   <em>
-    <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG0wZ2x1OHdxdmRqM3E0ZGVjNWpxYXR4ZDlub3dwaW1ubzJyMHB0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rYSPkh3G3nnuPfnsIu/giphy.gif">
-      Вызов Ктулху
-	</a>.
+    Вызов Ктулху
+	(<a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG0wZ2x1OHdxdmRqM3E0ZGVjNWpxYXR4ZDlub3dwaW1ubzJyMHB0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rYSPkh3G3nnuPfnsIu/giphy.gif">gif</a>).
   </em>
 </p>
 
@@ -34,9 +32,8 @@
 </p>
 <p align="center">
   <em>
-    <a href="https://media.giphy.com/media/Ka8H6rOxpwKjIc7xs9/giphy.gif">
-      Химическая колба
-    </a>.
+    Химическая колба
+    (<a href="https://media.giphy.com/media/Ka8H6rOxpwKjIc7xs9/giphy.gif">gif</a>).
   </em>
 </p>
 
@@ -48,8 +45,7 @@
 </p>
 <p align="center">
   <em>
-    <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqeHBoa3U4dWpheWF2NWw3MnhqYjQ3amJyMDBndHlyNm50aGl1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m1qTiiEgLRdDNK6GbI/giphy.gif">
 	Цветочек
-    </a>.
+    (<a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqeHBoa3U4dWpheWF2NWw3MnhqYjQ3amJyMDBndHlyNm50aGl1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m1qTiiEgLRdDNK6GbI/giphy.gif">gif</a>).
   </em>
 </p>
