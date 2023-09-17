@@ -272,6 +272,10 @@ from random import randint
 num_turtles = 5
 num_steps = 100
 
+spawn_border = 200
+turtle_speed = 50
+one_step = 2
+
 turtles = []
 
 for i in range(num_turtles):
@@ -280,12 +284,15 @@ for i in range(num_turtles):
 
 for turtle in turtles:
     turtle.penup()
-    turtle.speed(50)
-    turtle.goto(randint(-200, 200), randint(-200, 200))
+    turtle.speed(turtle_speed)
+
+    x = randint(-spawn_border, spawn_border)
+    y = randint(-spawn_border, spawn_border)
+    turtle.goto(x, y)
 
 for i in range(num_steps):
     for turtle in turtles:
-        turtle.forward(2)
+        turtle.forward(one_step)
 ```
 
 При помощи подобного кода заставьте черепах вести себя как идеальный газ в сосуде.
