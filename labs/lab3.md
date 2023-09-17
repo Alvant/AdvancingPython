@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://media.giphy.com/media/Ka8H6rOxpwKjIc7xs9/giphy.gif">
-    <img src="https://github.com/Alvant/AscendingPython/assets/15067981/0c150b7c-e1d4-4d16-876e-fd379d4d6336" alt="Chemical Flask" title="Python + Turtle" data-canonical-src="https://media.giphy.com/media/Ka8H6rOxpwKjIc7xs9/giphy.gif" />
+    <img src="https://github.com/Alvant/AscendingPython/assets/15067981/d8af28ea-3d40-48b2-85a8-fc5890af31ff" alt="Chemical Flask" title="Python + Turtle" data-canonical-src="https://media.giphy.com/media/Ka8H6rOxpwKjIc7xs9/giphy.gif" />
   </a>
 </p>
 <p align="center">
