@@ -7,3 +7,4 @@
 
 * [Lab 1](./labs/lab1.md). Advanced Python.
 * [Lab 2](./labs/lab2.md). Ветки, циклы, функции и черепаха.
+* [Lab 3](./labs/lab3). Функции, списки, файлы и черепаха.
