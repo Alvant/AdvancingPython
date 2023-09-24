@@ -1,11 +1,11 @@
-# Lab 4: Рекурсия, "несписки", строки и картинки на выставку
+# Lab 4: Функции, "несписки", строки и картинки на выставку
 
 Лаба: http://cs.mipt.ru/python/lessons/lab4.html.
 
-В качестве ДЗ достаточно решить *6* задач: одну по функциям (по рекурсии), две по "неспискам", две по строкам и одну по "Картинкам на выставку".
+В качестве ДЗ достаточно решить *6 задач*: одну по функциям (по рекурсии), две по "неспискам", две по строкам и одну по "Картинкам на выставку".
 
-По некоторым номерам в названии задачи есть сноска, в которой указана ссылка на ресурс [Питонтьютор](https://pythontutor.ru).
-Если выбираете решать такую задачу, рекомендуется перейти по соответствующей ссылке, чтобы посмотреть более полную версию условия (с примерами).
+По некоторым номерам в названии задачи есть ссылка на ресурс [Питонтьютор](https://pythontutor.ru).
+Если выбор в плане решения падает на такую задачу, рекомендуется перейти по соответствующей ссылке, чтобы посмотреть более полную версию условия (с примерами).
 (И, кроме условия, можно будет при желании и небольшую теорсправку там же на сайте почитать.)
 
 
@@ -17,19 +17,31 @@
 
 ```python
 def factorial(n):
-    # ... Рекурсивная функция ...
+    # Рекурсивно вычисляет факториал
 
 print(factorial(3))  # 6
 ```
 
 
-### Задача R2 (Отрицательная степень[^negative-power])
+### Задача R2 (Отрицательная степень)
+
+https://pythontutor.ru/lessons/functions/problems/negative_power.
 
 Дано действительное положительное число `a` и *целоe* число `n`.
 Вычислите $a^n$.
 Решение оформите в виде рекурсивной функции `power(a, n)`.
 
 (Стандартной функцией возведения в степень пользоваться нельзя.)
+
+Пример:
+```
+# Вход:
+2
+-3
+
+# Выход:
+0.125
+```
 
 
 
@@ -52,6 +64,15 @@ print(factorial(3))  # 6
 В файле [motorama.txt](./files/motorama.txt) на каждой строчке через пробел перечислены карточки, собранные отдельными охотниками за призом (каждая строчка — карточки одного человека).
 Напишите программу, которая определяет, получится ли составить слово "MOTORAMA", если объединить вместе все карточки разных людей.
 (Выход программы — одно слово: "ДА", если можно, и "НЕТ", если нельзя.)
+
+<p align="center">
+  <img src="./docs/images/Motorama.png" alt="MOT..." width="80%" />
+</p>
+<p align="center">
+  <em>
+    Motorama, 1991 (<a href="https://www.kinopoisk.ru/film/1820">https://www.kinopoisk.ru/film/1820</a>).
+  </em>
+</p>
 
 
 ### Задача NL2 (Белый)
@@ -135,24 +156,66 @@ Chromatics - Shadow
 Программа должна вывести на экран (или записать в файл с именем `result.txt`) имя убийцы или строчку `"Надо продолжать допрос!"`, если убийца пока не найден.
 
 
-### Задача NL5 (Количество совпадающих чисел[^number-of-coincidental])
+### Задача NL5 (Количество совпадающих чисел)
+
+https://pythontutor.ru/lessons/sets/problems/number_of_coincidental.
 
 Даны два *списка* чисел.
 Посчитайте, сколько чисел содержится одновременно как в первом списке, так и во втором.
 
+Пример:
+```
+# Вход:
+1 3 2
+4 3 2
 
-### Задача NL6 (Встречалось ли число раньше[^occurs-before])
+# Выход:
+2
+```
+
+
+### Задача NL6 (Встречалось ли число раньше)
+
+https://pythontutor.ru/lessons/sets/problems/occurs_before.
 
 Во входной строке записана последовательность чисел через пробел.
 Для каждого числа выведите слово `'YES'` (в отдельной строке), если это число ранее встречалось в последовательности, или `'NO'`, если не встречалось.
 
+Пример:
+```
+# Вход:
+1 2 3 2 3 4
 
-### Задача NL7 (Количество слов в тексте[^number-of-words])
+# Выход:
+NO
+NO
+NO
+YES
+YES
+NO
+```
+
+
+### Задача NL7 (Количество слов в тексте)
+
+https://pythontutor.ru/lessons/sets/problems/number_of_words.
 
 Дан текст: в первой строке записано число строк, далее идут сами строки. Определите, сколько различных слов содержится в этом тексте.
 
 Словом считается последовательность непробельных символов, идущих подряд; слова разделены одним или большим числом пробелов или символами конца строки.
 
+Пример:
+```
+# Вход:
+4
+She sells sea shells on the sea shore;
+The shells that she sells are sea shells I'm sure.
+So if she sells sea shells on the sea shore,
+I'm sure that the shells are sea shore shells.
+
+# Выход:
+19
+```
 
 
 ## Строки
@@ -217,7 +280,7 @@ print(description)  # Меня зовут Ник, мне 18 лет. Средня
 </p>
 <p align="center">
   <em>
-    Источник примера (<a href="https://lollipopchainsaw.fandom.com/wiki/Nick_Carlyle">https://lollipopchainsaw.fandom.com/wiki/Nick_Carlyle</a>).
+    Lollipop Chainsaw, 2012 (<a href="https://lollipopchainsaw.fandom.com/wiki/Nick_Carlyle">https://lollipopchainsaw.fandom.com/wiki/Nick_Carlyle</a>).
   </em>
 </p>
 
@@ -297,7 +360,9 @@ print(names)  # ['Анжелика', 'Данте', 'Джон', 'Маша', 'Фр
 ```
 
 
-### Задача S7 (Делаем срезы[^slices])
+### Задача S7 (Делаем срезы)
+
+https://pythontutor.ru/lessons/str/problems/slices.
 
 Дана строка.
 Сначала выведите третий символ этой строки.
@@ -310,33 +375,93 @@ print(names)  # ['Анжелика', 'Данте', 'Джон', 'Маша', 'Фр
 В восьмой строке выведите все символы строки через один в обратном порядке, начиная с последнего.
 В девятой строке выведите длину данной строки.
 
+Пример:
+```
+# Вход:
+Abrakadabra
 
-### Задача S8 (Первое и последнее вхождения[^first-and-last-occurences])
+# Выход:
+r
+r
+Abrak
+Abrakadab
+Arkdba
+baaar
+arbadakarbA
+abdkrA
+11
+```
+
+
+### Задача S8 (Первое и последнее вхождения)
+
+https://pythontutor.ru/lessons/str/problems/first_and_last_occurences.
 
 Дана строка.
 Если в этой строке буква `'f'` встречается только один раз, выведите её индекс.
 Если она встречается два и более раз, выведите индекс её первого и последнего появления.
 Если буква `'f'` в данной строке не встречается, ничего не выводите.
 
+Пример:
+```
+# Вход:
+office
 
-### Задача S9 (Второе вхождение[^second-occurence])
+# Выход:
+1 2
+```
+
+
+### Задача S9 (Второе вхождение)
+
+https://pythontutor.ru/lessons/str/problems/second_occurence.
 
 Дана строка.
 Найдите в этой строке *второе* вхождение буквы `'f'`, и выведите индекс этого вхождения.
 Если буква `'f'` в данной строке встречается только один раз, выведите число -1, а если не встречается ни разу, выведите число -2.
 
+Пример:
+```
+# Вход:
+coffee
 
-### Задача S10 (Удаление фрагмента[^delete-chunk])
+# Выход:
+3
+```
+
+
+### Задача S10 (Удаление фрагмента)
+
+https://pythontutor.ru/lessons/str/problems/delete_chunk.
 
 Дана строка, в которой буква `'h'` встречается минимум два раза.
 Удалите из этой строки первое и последнее вхождение буквы `'h'`, а также все символы, находящиеся между ними.
 
+Пример:
+```
+# Вход:
+In the hole in the ground there lived a hobbit
 
-### Задача S11 (Обращение фрагмента[^reverse-chunk])
+# Выход:
+In tobbit
+```
+
+
+### Задача S11 (Обращение фрагмента)
+
+https://pythontutor.ru/lessons/str/problems/reverse_chunk.
 
 Дана строка, в которой буква `'h'` встречается как минимум два раза.
 Разверните последовательность символов, заключённую между первым и последним появлением буквы `'h'`, в противоположном порядке.
 
+Пример:
+```
+# Вход:
+In the hole in the ground there lived a hobbit
+
+# Выход:
+In th a devil ereht dnuorg eht ni eloh ehobbit
+```
 
 
 ## Картинки на выставку
@@ -344,14 +469,4 @@ print(names)  # ['Анжелика', 'Данте', 'Джон', 'Маша', 'Фр
 См. [задание 2 из лабы про Картинки](http://cs.mipt.ru/python/lessons/lab4.html#o2-1): надо с помощью библиотеки `pygame` нарисовать любую из приведённых на сайте картинок.
 
 
-
-[^negative-power]: https://pythontutor.ru/lessons/functions/problems/negative_power.
 [^Hastings]: Термин придумал сам капитан Гастингс. Возможно, он так сравнивает свой способ допроса путём многократного повторения одного и того же вопроса с [китайской пыткой водой](https://en.wikipedia.org/wiki/Chinese\_water\_torture). Вопрос как бы "капает" на психику убийцы (и не только), пока он или она окончательно не расколется.
-[^number-of-coincidental]: https://pythontutor.ru/lessons/sets/problems/number_of_coincidental.
-[^occurs-before]: https://pythontutor.ru/lessons/sets/problems/occurs_before.
-[^number-of-words]: https://pythontutor.ru/lessons/sets/problems/number_of_words.
-[^slices]: https://pythontutor.ru/lessons/str/problems/slices.
-[^first-and-last-occurences]: https://pythontutor.ru/lessons/str/problems/first_and_last_occurences.
-[^second-occurence]: https://pythontutor.ru/lessons/str/problems/second_occurence.
-[^delete-chunk]: https://pythontutor.ru/lessons/str/problems/delete_chunk.
-[^reverse-chunk]: https://pythontutor.ru/lessons/str/problems/reverse_chunk.
