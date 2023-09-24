@@ -66,7 +66,7 @@ https://pythontutor.ru/lessons/functions/problems/negative_power.
 (Выход программы — одно слово: "ДА", если можно, и "НЕТ", если нельзя.)
 
 <p align="center">
-  <img src="./docs/images/Motorama.png" alt="MOT..." width="80%" />
+  <img src="./docs/images/Motorama2.jpg" alt="MOT..." width="80%" />
 </p>
 <p align="center">
   <em>
