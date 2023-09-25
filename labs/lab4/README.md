@@ -177,7 +177,7 @@ Chromatics - Shadow
 ```
 
 <p align="center">
-  <img src="./docs/images/Arthur_Hastings.jpg" alt="Hugh Fraser as Arthur Hastings" width="80%" />
+  <img src="./docs/images/Arthur_Hastings2.jpg" alt="Hugh Fraser as Arthur Hastings" width="80%" />
 </p>
 <p align="center">
   <em>
