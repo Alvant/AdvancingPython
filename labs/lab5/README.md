@@ -75,8 +75,7 @@
 ---
 
 Ссылки на использованные статьи Википедии:
-* [Муравьи](https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%80%D0%B0%D0%B2%D1%8C%D0%B8.
-)
+* [Муравьи](https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%80%D0%B0%D0%B2%D1%8C%D0%B8).
 * [Красная Шапочка](https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F_%D0%A8%D0%B0%D0%BF%D0%BE%D1%87%D0%BA%D0%B0).
 * [Мокрая химия](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BA%D1%80%D0%B0%D1%8F_%D1%85%D0%B8%D0%BC%D0%B8%D1%8F).
 
