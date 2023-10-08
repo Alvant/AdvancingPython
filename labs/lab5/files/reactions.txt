@@ -1,0 +1,7 @@
+2H2 + O2 -> 2H2O + Q
+N2 + O2 + Q -> 2NO
+2KMnO4 -> K2MnO4 + MnO2 + O2
+NaOH + HCl -> NaCl + H2O
+CH4 + 2O2 -> CO2 + 2H2O + Q
+CH3Cl + NaOH -> CH3OH + NaCl
+CH3COONa + NaOH -> CH4 + Na2CO3
