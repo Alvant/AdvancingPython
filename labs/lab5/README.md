@@ -176,19 +176,11 @@
 
 <p align="center">
   <img src="./docs/images/fly.png" width="50%" alt="Fly" title="Fly" />
-</p>
-<p align="center">
-  <em>
-    Муха.
-  </em>
-</p>
-
-<p align="center">
   <img src="./docs/images/firefly.png" width="50%" alt="Firefly" title="Firefly" />
 </p>
 <p align="center">
   <em>
-    Светлячок.
+    Слева: муха. Справа: светлячок.
   </em>
 </p>
 
