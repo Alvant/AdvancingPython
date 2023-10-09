@@ -175,8 +175,8 @@
 Днём ей часто составляют компанию мухи, а вечером светлячки:
 
 <p align="center">
-  <img src="./docs/images/fly.png" width="50%" alt="Fly" title="Fly" />
-  <img src="./docs/images/firefly.png" width="50%" alt="Firefly" title="Firefly" />
+  <img src="./docs/images/fly.png" width="45%" alt="Fly" title="Fly" />
+  <img src="./docs/images/firefly.png" width="45%" alt="Firefly" title="Firefly" />
 </p>
 <p align="center">
   <em>
