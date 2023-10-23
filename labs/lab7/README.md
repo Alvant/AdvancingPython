@@ -238,8 +238,8 @@ Classmate2 - 0.9
 Classmate3 - 0.1
 
 # Выход (movie_ratings.txt)
-Movie2 - 0.9
-Movie3 - 0.1
+Movie2 (2022) - 0.9
+Movie3 (2023) - 0.1
 ```
 
 
