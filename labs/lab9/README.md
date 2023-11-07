@@ -413,6 +413,7 @@ print(bouquet)  # ⚘⚘⚘
 
 <p align="center">
   <img src="./docs/images/through-snow-bouquet.png" width="45%" alt="Game start" title="start" />
+  &nbsp;&nbsp;&nbsp;
   <img src="./docs/images/through-snow-bouquet2.png" width="45%" alt="After some tome" title="After some tome" />
 </p>
 <p align="center">
