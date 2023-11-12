@@ -402,7 +402,7 @@ print(bouquet)  # ⚘⚘⚘
 Игра заканчивается, если персонаж добирается до дома с хотя бы одним цветком в запасе, или если все цветы замерзают (а персонаж окончательно теряет дорогу и так и остаётся блуждать один среди снежинок)...
 
 <p align="center">
-  <img src="./docs/images/through-snow-bouquet-v2.png" width="45%" alt="Game start" title="start" />
+  <img src="./docs/images/through-snow-bouquet-v3.png" width="45%" alt="Game start" title="start" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./docs/images/through-snow-bouquet2-v2.png" width="45%" alt="After some tome" title="After some tome" />
 </p>

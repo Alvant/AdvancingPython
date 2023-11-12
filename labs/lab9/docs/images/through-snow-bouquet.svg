@@ -16,7 +16,7 @@
    id="svg8"
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="through-snow-bouquet.svg"
-   inkscape:export-filename="D:\Document &amp; Files\Documents\MEGA\MEGAsync Uploads\Myspace\Study\workspace-10c1s\AscendingPython\labs\lab9\docs\images\through-snow-bouquet.png"
+   inkscape:export-filename="D:\Document &amp; Files\Documents\MEGA\MEGAsync Uploads\Myspace\Study\workspace-10c1s\AscendingPython\labs\lab9\docs\images\through-snow-bouquet-v3.png"
    inkscape:export-xdpi="68"
    inkscape:export-ydpi="68">
   <defs
@@ -472,8 +472,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="511.01721"
-     inkscape:cy="659.76136"
+     inkscape:cx="394.01323"
+     inkscape:cy="688.60639"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -896,12 +896,12 @@
        id="path4528-24-4"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.58999992, 1.58999992;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker13172)"
-       d="m 46.0375,255.04464 c -3.812213,-0.48114 -7.624568,-0.96229 -10.333599,-3.92328 -2.70903,-2.96098 -4.314209,-8.40131 -5.919377,-13.8416"
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker13172)"
+       d="m 46.0375,255.04464 c -2.930365,-1.23706 -5.860795,-2.47416 -8.569778,-5.43511 -2.708984,-2.96096 -5.196084,-7.64535 -7.683198,-12.32977"
        id="path13160"
        inkscape:connector-curvature="0"
        inkscape:path-effect="#path-effect13162"
-       inkscape:original-d="m 46.0375,255.04464 c -3.812176,-0.48143 -7.624531,-0.96259 -11.437324,-1.4435 -1.604989,-5.44085 -3.21017,-10.88118 -4.815652,-16.32138"
+       inkscape:original-d="m 46.0375,255.04464 c -2.930232,-1.23738 -5.860662,-2.47447 -8.791491,-3.71136 -2.486954,-4.68488 -4.974057,-9.36927 -7.461485,-14.05352"
        sodipodi:nodetypes="ccc" />
   </g>
 </svg>
